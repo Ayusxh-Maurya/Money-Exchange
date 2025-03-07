@@ -1,4 +1,7 @@
 Money Exchange
+
+![iPad-Air-4-127 0 0 1](https://github.com/user-attachments/assets/b17c5d3d-4f81-4c73-857c-af387a46adb9)
+
 A simple Money Exchange web application that allows users to convert between different currencies using live exchange rates from a free API.
 
 Overview
